@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:02:12.829752
-#+TITLE: 皇極經世
-#+PROPERTY: DZID  DZ1040
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，23—1 十二卷 太玄部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
